@@ -1,3 +1,4 @@
+
 test.db
 
 # Created by https://www.gitignore.io/api/go
@@ -24,4 +25,3 @@ test.db
 /vendor/
 /Godeps/
 
-# End of https://www.gitignore.io/api/go
